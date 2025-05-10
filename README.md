@@ -66,6 +66,11 @@
 
 ---
 
+## 🤣 Random Tech Joke
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark&hideBorder)
+
+---
 
 ## 📬 Let’s Collaborate!
 
