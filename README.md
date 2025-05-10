@@ -10,6 +10,7 @@
 
 <p align="center">
     <a href="mailto:pentadakosta99@gmail.com"><img src="https://img.shields.io/badge/email-pentadakosta99@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+    <a href="https://wa.me/6281250281289" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/mp-pentadakosta99"><img src="https://img.shields.io/badge/linkedin-Connect-blue?style=for-the-badge&logo=linkedin"></a>
     <a href="https://mp-pentadakosta.my.id"><img src="https://img.shields.io/badge/portfolio-Visit-black?style=for-the-badge&logo=vercel"></a>
 
@@ -60,7 +61,7 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mp-pentadakosta&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mp-pentadakosta&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -69,6 +70,7 @@
 ## 📬 Let’s Collaborate!
 
 - 📬 Email: [pentadakosta99@gmail.com](mailto:pentadakosta99@gmail.com)
+- 💬 WhatsApp: [https://wa.me/6281250281289](https://wa.me/6281250281289)
 - 🌐 Website: [https://mp-pentadakosta.my.id](https://mp-pentadakosta.my.id)
 - 🧑‍💼 LinkedIn: [https://www.linkedin.com/in/mp-pentadakosta99](https://www.linkedin.com/in/mp-pentadakosta99])
 
