@@ -27,7 +27,7 @@
 - 🧰 Loves working with **Flutter**, **NestJS**, **Go**, **Spring Boot**
 - ☁️ CI/CD, Docker, Kubernetes, AWS? Yes, please.
 - 🎯 Clean Code | Domain-Driven Design | System Design
-- 📚 Forever learning — currently exploring **event-driven architecture**
+- 📚 Forever learning
 
 ---
 
