@@ -22,7 +22,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
-- 💻 4+ years as a full-stack engineer (Mobile, Web, Backend)
+- 💻 6+ years as a full-stack engineer (Mobile, Web, Backend)
 - 🚀 Expert in scalable APIs, real-time systems, and cloud-native deployment
 - 🧰 Loves working with **Flutter**, **NestJS**, **Go**, **Spring Boot**
 - ☁️ CI/CD, Docker, Kubernetes, AWS? Yes, please.
