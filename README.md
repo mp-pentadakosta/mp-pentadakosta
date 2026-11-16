@@ -12,7 +12,7 @@
     <a href="mailto:pentadakosta99@gmail.com"><img src="https://img.shields.io/badge/email-pentadakosta99@gmail.com-red?style=for-the-badge&logo=gmail"></a>
     <a href="https://wa.me/6281250281289" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/mp-pentadakosta99"><img src="https://img.shields.io/badge/linkedin-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-    <a href="https://mp-pentadakosta.my.id"><img src="https://img.shields.io/badge/portfolio-Visit-black?style=for-the-badge&logo=vercel"></a>
+    <a href="https://pentadakosta.dev"><img src="https://img.shields.io/badge/portfolio-Visit-black?style=for-the-badge&logo=vercel"></a>
 
 </p>
 
